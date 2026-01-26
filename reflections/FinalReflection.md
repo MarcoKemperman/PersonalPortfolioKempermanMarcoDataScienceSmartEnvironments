@@ -32,6 +32,8 @@ Because I spent so much time on the group project, I now still have to create my
 
 I am not writing this to blame others, but to give context. I would like this to be taken into consideration when grading both the group project and my personal portfolio, as I believe I have put in significantly more time and effort than others. At first, I did not mind, as I learned many new and interesting things related to coding, APIs, and natural language processing. However, in the last week, this situation became more frustrating for me.
 
+To conclude, as this is a reflection, I could have done better in communicating my frustrations. In future group projects, I should divide tasks better so that the division is more equal. In addition, I should point out my personal preference of working on campus and I should point out if someone does not work that much for the group, even though I am a conflict avoidant person. 
+
 ### Reflection on what went well and not so well. 
 
 `Proficient data science skills are applied to meet ALL their learning goals. - demonstratable range of skills with novel skills to meet learning goals`
