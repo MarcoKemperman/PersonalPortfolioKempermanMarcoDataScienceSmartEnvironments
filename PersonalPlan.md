@@ -1,0 +1,13 @@
+# GRS53509 Smart Environments
+January 2025		Marco Kemperman
+# Individual Portfolio
+## Personal Plan / Learning goals
+
+## Expectations course
+What I expect to learn from this course is to become better in structuring data, in becoming better in working on a code together with a team. And to become better in python and learn something about machine learning, ethical considerations, and natural language processing a long the way. 
+## Learning goal 1 (data)
+My first learning goal is to become better at storing data in a clear, organized way, especially in a team setting where more than one person has to know where things are and where things can be found. Currently, I often store data wherever. I store my documents in downloads, or I throw everything into one map. This becomes a problem when I want to retrieve the documents again. So at the end of the course, I want our group project to be organised well. To become better in this, I will support our group in doing the data storage and making an easily overviewed folder structure. To measure my progress, I will ask my group members to get their sentiment on the folder structure. 
+## Learning goal 2 (knowledge)
+My second learning goal is that I would like to learn more about API and natural language process (NLP) models, and how I can use them to answer research questions. I would like to learn this as I would like to use NLP models for my own master thesis. Currently, I have limited knowledge on API and NLP models. I have never used a NLP model before so I would like to use one of these models in this course. Furthermore, only once I used an API to access Google Earth Engine on python, but I did not really understood that well how it worked. So at the end of the course, I can use API and I have learned to use NLP  models. I will demonstrate this by providing code of the API connection and by creating a Jupyter notebook on how I used a NLP model. 
+## Learning goal 3 (information)
+My third learning goal is to become better at analysing data by applyign more statistical methods. Currently often when I analyse results I put the results into easily made bar graphs or pie charts. By the end of the course, I want to be able to use more advanced statistical approaches to analyse our projects data results. As this might also becomes useful later for my thesis. To demonsstrate this I will practice analysing the datasets used in the group project and apply more advanced statistical methods when creating graphs. My progress will be measured by the quality and clarity of the graphs in the final project and feedback from my group members and the teacher on whether the graphs effectively support our analysis.
