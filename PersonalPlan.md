@@ -1,8 +1,6 @@
 # GRS53509 Smart Environments
 January 2025		Marco Kemperman
-# Individual Portfolio
-## Personal Plan / Learning goals
-
+# Individual Portfolio Personal Plan / Learning goals
 ## Expectations course
 What I expect to learn from this course is to become better in structuring data, in becoming better in working on a code together with a team. And to become better in python and learn something about machine learning, ethical considerations, and natural language processing a long the way. 
 ## Learning goal 1 (data)
