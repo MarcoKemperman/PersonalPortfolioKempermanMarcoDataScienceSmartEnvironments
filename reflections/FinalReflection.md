@@ -18,7 +18,17 @@ Most of the days in week 2 and 3, Tom was also not at University. He prefered wo
 
 Jingxi was more often at university, and she worked well on tasks if I gave tasks to her, but when I did not gave tasks she did not do that much, and I think she found it difficult to know where to work on. This is partly my mistake, I should have asked her more often I she knows what to do, and I should have asked more on what she would like to work on. In the last week, I gave her a task to do, working on the StoryMaps, and I found out that she worked well on this. So probably if I gave more tasks to her she would have done more for the project. 
 
-For Simen I think he did work well on the code with me in week 2 and 3. However, in some of the afternoons he went home earlier, or was not there. Also in the last week, he was sick one day, which he texted at the end of the day. Instead of in the morning, when I texted him if he would be there this day.  
+For Simen I think he did work well on the code with me in week 2 and 3. However, in some of the afternoons he went home earlier, or was not there. Also in the last week, he was sick one day, which he texted at the end of the day. Instead of in the morning, when I texted him if he would be there this day. Therefore I had to take over the task of coding to combine the weather data with the sentiment data. I think Simen, did work well in the last two weeks, and he also coded together with me. However, I still spend quite some more time on it. 
+
+So as a result of me doing a lot of the work. I noticed that during the presentations I also had to answers all of the questions, in all three presentations. I was fine with doing this, but I also did not like it, as it looks that I am the only one knowing well about what we were doing. I also created the powerpoint for the last presentation, and when Tom wanted to help I also noticed that it was difficult for him to work on it, as he did not know that well anymore, what the project was really doing. For example, he still though we got location from the bio while it was actually now the posts. 
+
+Again this could be a mistake by me, due to not communicating this clearly to them. But I also hoped for a more proactive attitude of some of my groupmembers to ask, what they could do, what I was working on etc. I do not like to be the leader of the group, but If I am, then I at least expect people to ask proactively what we can do and what we are working on. 
+
+I know that a lot of the issues that we had is also my fault. So I do not want to say that they did nothing. Because all of them worked on something and delivered something for the project. But still, the majority that has been created for this group project is my work. All of the visualisations/graphs or maps have been coded together with AI by me. I know that some people might have difficulties with coding. So it is not that I expect everyone to code in the group I guess. It is just that I hoped for more collaboration and proactive attitude of my team members. 
+
+Because also now in the fourth and last week I still have to create my whole personal portfolio, while I saw others, already working on this earlier in Week 3. I did not have time for it, as I had to work on our group project. 
+
+So where am I going with this, I don't know. I just want it to be taken into consideration when grading the project and portfolio, that I put more work on the project then others. I had no issues with this at first as I learned a lot of new cool things in relation with coding, API, and natural language processing modelling. But in the last week, I became a bit more frustrated with it. 
 
 ### Reflection on what went well and not so well. 
 
