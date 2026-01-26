@@ -8,5 +8,5 @@ This repository contains my individual learning portfolio for the course Data Sc
 - Personal learning goal 1
 - Personal learning goal 2
 - Personal learning goal 3
-- Reflection
+- Reflections
 
