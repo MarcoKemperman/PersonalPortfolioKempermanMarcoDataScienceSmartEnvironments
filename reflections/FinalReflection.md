@@ -1,12 +1,15 @@
-## A reflection on the learning process which includes BCC, aspects that went ok and went not so good as well as a reflection on the potential use and application of the project outcomes. 
-
+# Final reflection 
 ### Reflection on learning goals:
 
 ### Reflection on Data quality and methods: 
 
-### Reflection on societal implications of our project. 
+### Reflection on societal implications of our project, and potenial use of application. 
 
 ### Reflection on Boundary Crossing Competences
+
+### Reflection on group
+
+### Reflection on what went well and not so well. 
 
 `Proficient data science skills are applied to meet ALL their learning goals. - demonstratable range of skills with novel skills to meet learning goals`
 
