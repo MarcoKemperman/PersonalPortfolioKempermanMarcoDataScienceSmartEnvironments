@@ -50,6 +50,6 @@ I worked on the data again. I runned the code two more times. It did not change 
 #### **Thursday 20th January** 
 Today I worked partly on the code but mainly on the presentation of tomorrow. I also changed some text for the Storymaps, and I made the dynamic temporal map for Europe. I edited the code to have better hearders and a better overall structure. In the afternoon, we also had a ethics sessions.
 
-## **Friday 21th January** 
+###  **Friday 21th January** 
 Today I worked on the presentation in the morning, and I presented in the afternoon, after the presentations I also worked on reflection week 3 and I handed it in. 
 
