@@ -37,19 +37,23 @@ we first had a lecture on ethics and privacy. We devided the work in the group s
 #### **Friday 16th January** 
 we had presentations and we also worked on our code. We got a date filter working but it was very slow. I also started to work on the Stormyap that day, we find out that we can not work together in the same storymap so only one could work in it. 
 
-#### **Monday 17th January** 
+#### **Monday 19th January** 
 we had a difficult day. The code from last friday was not working anymore. So we had to change it too a previous version and work from there again. We had a lot of difficulties and decided to get rid of the date filtering, as it was maybe breaking our code. We got a lot of 429 time out errors and 500 time out errors. Together with Jelle we tried to solve it but it didn't really work. In the end, we also decided to make a new bluesky account with a new API key, and together with some time.sleep functions we got our code working again. At the end of the day at home, I was planning to run the new code overnight. I started to run the code at 0;00. And because I was afraid that the code would crash during the night I stayed up until it was done. Around 2:15 the code was finished running and we got a CSV file with around 9250 posts about weather in 20 capitals of Europe. 
 
-#### **Tuesday 18th January** 
+#### **Tuesday 20th January** 
 I worked on the methods and limitations of our project. I wrote all of the limitations and I also worked further on our storymap. I also created the workflow diagram using draw.io. Furthermore I updated a bit of my daily log. Just before the afternoon lesson, I also reviewed the posters that my groupmembers made, and I changed and added some stuff. In the afternoon we had a interesting lecture about Ethics and AI. 
 
-#### **Wednesday 19th January**
+#### **Wednesday 21th January**
 I worked on the data again. I runned the code two more times. It did not change even though I added some more filter words to be forbidden to leave out the noise by bots. Therefore, the filtering out was dan after the CSV file was retrieved. Furthermore, this day I worked on the statistics again. I find how to do the correlation between weather and sentiment. Therefore, I worked on the R2 and I worked on the correlation between weather data and sentiment data about the weather. Furthermore I changed all the graphs and maps so that it looked better. Furthermore I made a GitHub repository to add the HTML map there so that it could be embedded within Storymaps. At last I started working on the presentation and I filled in my daily log. 
 <img width="1448" height="790" alt="Storingend" src="https://github.com/user-attachments/assets/d34e65ba-dc11-4aff-90ea-f3d06b082ec3" />
 
-#### **Thursday 20th January** 
+#### **Thursday 22th January** 
 Today I worked partly on the code but mainly on the presentation of tomorrow. I also changed some text for the Storymaps, and I made the dynamic temporal map for Europe. I edited the code to have better hearders and a better overall structure. In the afternoon, we also had a ethics sessions.
 
-###  **Friday 21th January** 
+####  **Friday 23th January** 
 Today I worked on the presentation in the morning, and I presented in the afternoon, after the presentations I also worked on reflection week 3 and I handed it in. 
+
+#### **Monday 26th January**
+Today I started working on the personal reflection. I created the GitHub repository and learned how to structure the repository in a way that is clear for the teacher to read. I also added information to the read.me files and I added the daily log and the earlier reflections to the folder. I also started working on the reflection on the personal goals. 
+
 
