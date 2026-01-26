@@ -5,6 +5,8 @@ On the first day we made groups and we started to think about some possible topi
 Furthermore, on the first day I started to write my first two personal learning goals. The first one about data storing and organisation. In where I really want to become better in. And the second one about trying to understand and figuring out how to use API and natural language processing models for the purpose of answering questions. This is also important later for my master thesis. 
 
 #### **Tuesday 6th January**
+
+tuesday
 On the second day I started to think about the third personal learning goal. I came to the conclusion that I also want to learn more about data analysation. As usually I analyse data just with bar charts or pie charts which is pretty easy. This time I would like to use more statistics or more advanced data analysation processes, as they might also become useful later for my thesis. 
 Furthermore I started to code this day. I was worried about if our project was feasible so I started to work on it a little bit already. Together with the teacher we found out that location data could not be retrieved from Bluesky with the API. But something to work around it could be to use locations that people have in their bio. Together with AI (ChatGPT 5o) I started to code and got some code working to retrieve information from Bluesky and together with a Natural language processing model I also could retrieve if something was positively sentiment or negatively sentiment. Furthermore AI was used to debug the code in case there were errors.  
 <img width="1443" height="565" alt="tablestart" src="https://github.com/user-attachments/assets/c68d44fe-e382-4cdd-a4b0-c4926fb1ba38" />
