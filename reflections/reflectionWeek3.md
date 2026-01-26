@@ -1,0 +1,10 @@
+# Reflection week 3 
+Marco Kemperman 1048504
+## My personal goals were:
+1. Become better at storing data in a clear, organized way, especially in a team setting where more than one person has to know where things are and where things can be found.
+2. My second learning goal is that I would like to learn more about API and natural language process (NLP) models, and how I can use them to answer research questions.
+3. My third learning goal is to become better at analysing data by applying more statistical methods.
+## Progress 
+1.	This week I made more folders and I also opened up a GitHub repository for the first time. I had to do this because if I would not have done this I could not upload the interactive folium maps to StoryMap. Furthermore I found out that you could upload files with a maximum of 25 mb on GitHub. So I had to decrease the sentiment time series from 3 weeks to 2. So that it fit under the 25 mb. 
+2.	This week I worked more with the BlueSky API and I found out about more limitations. The date filter did not work anymore and we got a lot of timeout errors. Most of these errors went away when I made a new BlueSky account. So it could be that BlueSky limits the amount of API use for users every week and that we got to that limit. With a second account it was solved. For the NLP model I find more information on the model and how it was trained. It looked quite okay and something that we could not have done ourselves within this limited time. It also costed 500 euros to train the data I found out. 
+3.	Mostly this week, I worked on the data analysis. I created the new time series map. And I also worked on the correlation between weather and sentiment, and of the coefficient of determination (r2). We found some correlations but it was pretty limited. I also redid some of the earlier analysis so that it was more visually pleasing. At last I did more data cleaning this week so that the statistics make more sense. Even though the statistics are still far from perfect. 
