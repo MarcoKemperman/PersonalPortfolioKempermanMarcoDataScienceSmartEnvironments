@@ -21,11 +21,18 @@ Become better at storing data in a clear, organized way, especially in a team se
 ## Results
 The last three weeks I used different programs to store data in an organized way for our project. First of all, we created a Teams channel, in where I created multiple folders. Each folder had its own purpose. For example, in week 1, I created the folders Personal Plan, Project Plan, Code, and Presentations. The personal plan folders was created so that we could see from each other about what our goals were. 
 
-Furthermore, in the second week we started to work with Google Colab. In week 1 I created already some code on my own laptop. But as everyone should be able to help and support the coding, Simen and I, decided to make a Google Colab. This was the first time for me working in Google Colab, and I think it went pretty well. We sended the access link of the Google Colab in our WhatsApp group. 
+Furthermore, in the second week we started to work with Google Colab. In week 1 I created already some code on my own laptop. But as everyone should be able to help and support the coding, Simen and I, decided to make a Google Colab. This was the first time for me working in Google Colab, and I think it went pretty well. We sended the access link of the Google Colab in our WhatsApp group.
+<img width="2380" height="1328" alt="googleColab" src="https://github.com/user-attachments/assets/fd254016-777d-43bd-9bdc-7b2c9a6264c7" />
+<img width="1252" height="840" alt="whatsapp" src="https://github.com/user-attachments/assets/a59f26fe-5160-448e-a8f5-23de6bf7557f" />
+
 
 In the third week, I expanded our Teams channel with more folders to structure the data more organized. I created the folders Data, Final Reports, Social and Ethical, and Visualisations. Additonally, I created the StoryMaps this week. Jingxi and I found out that we could unfortunately not work on the StoryMap together at the same time. So after I created the StoryMaps a bit with some text and visualisations, I handed the task over to her. Also we worked in Canva this week, as we had to hand in the posters. I did not work that much on the posters, but I did change some text and visualisation in poster 1 and 3. 
+<img width="1448" height="790" alt="Storingend" src="https://github.com/user-attachments/assets/1e90796a-28a4-41b0-8c12-068ee7661be7" />
+
 
 At last, in the third week, I also started to learn how to use GitHub. I had to use GitHub because otherwise I could not upload the interactive map into the StoryMaps. Because embedding only works for online html files and not local ones. Also to make this personal portfolio I also used GitHub, as I thought it would be good for my learning goal to explore more on how GitHub works. 
+<img width="2504" height="1406" alt="github" src="https://github.com/user-attachments/assets/a837bc32-0472-4b1e-b29f-0eff09f54511" />
+
 
 ## Conclusions
 ### Conclusions on Results
@@ -34,10 +41,10 @@ Overall, I am quite satisfied how I organized our group files. I think it was pr
 ### Conclusions on Accomplishment of the Goal
 So to conclude I think I partially achieved my personal goal. I did became better in storing data, but still some issues were there such as the Google Colab link and some of the files uploaded a bit later. Personally, I think the most important bit about what I learned is that I now always think about the storing of the data. I might not have done it perfectly every time for this project. But at least, every time I downloaded something I thought about my personal goal, and where to store the data. Therefore, I think this personal goal has been valuable for me, as it makes me think critically about my data organisation. 
 
-I learned:
-- Skill 1
-- Skill 2
-- Skill 3
+So what did I learn:
+- I learned how to use Google Colab, and work together with other people on code in this new environment. 
+- I learned how to store data more organized in our Teams Channel. 
+- I learned how to use GitHub repositories to make online html links but also to make an organized folder to be able to send to others. 
 
 Remaining challenges:
-- 
+Immediately move my files from download folder to the correct folder. I should not do it later as I could forget what to move, and it could still become unorganized if I do not immediately move it to the correct place. 
