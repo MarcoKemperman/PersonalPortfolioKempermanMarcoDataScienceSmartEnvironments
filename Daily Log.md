@@ -54,6 +54,9 @@ Today I worked partly on the code but mainly on the presentation of tomorrow. I 
 Today I worked on the presentation in the morning, and I presented in the afternoon, after the presentations I also worked on reflection week 3 and I handed it in. 
 
 #### **Monday 26th January**
-Today I started working on the personal reflection. I created the GitHub repository and learned how to structure the repository in a way that is clear for the teacher to read. I also added information to the read.me files and I added the daily log and the earlier reflections to the folder. I also started working on the reflection on the personal goals. 
+Today I started working on the personal reflection. I created the GitHub repository and learned how to structure the repository in a way that is clear for the teacher to read. I also added information to the read.me files and I added the daily log and the earlier reflections to the folder. I also started working on the reflection on the personal goals. Furthermore I wrote some reflection on our group work. 
+
+#### **Tuesday 27th January**
+Today I finished personal goal 1 and 2. 
 
 
