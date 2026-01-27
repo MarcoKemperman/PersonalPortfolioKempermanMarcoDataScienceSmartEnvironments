@@ -15,33 +15,8 @@ What I learned the last couple of weeks is that retrieving informal data from Bl
 
 ### Reflection on societal implications of our project, and potenial use of application. 
 
-### Reflection on Boundary Crossing Competences
-![boundarycrossing](https://github.com/user-attachments/assets/05876b36-fd44-45fa-aaf9-9cf1dbf4118d)
-
-#### Example 1: Working together with Jingxi
-
-**Identification:**
-I was working very hard on a lot of different things at the same time. Therefore, I could not also spend much time on the StoryMap that I started to make.
-To complete the task of the StoryMap I needed someone that was creative, used StoryMaps before, and someone that could look at our results from a different perspective. 
-
-**Coordination:**
-As I already understood from Jingxi that she did not know the link to the Google Colab was on Whatsapp, I had to make sure that I was more clear in communication. 
-I asked her if she could work on our StoryMaps. I saw her making beautiful drawings for our ethics posters, so I identified that Jingxi was a creative person. 
-
-**Reflection:** 
-When I think back at this project I think about that I often did too many things, and I did not ask for help. Therefore I think it was nice to see that the time I did ask for help from Jingxi that she did a great job in making the StoryMap more visual pleasing and also expanding it with some text. I learned that during the weeks that Jingxi is willing to help but is a bit shy to ask herselve. I also know that it can be quite difficult for her communicating with us, as she sometimes has difficulties with English. Therefore I think it is nice to see that she did well to finish the beautiful Storymap. 
-
-**Transformation:**
-Unfortunately this happened in the last week of our project. Therefore, I did not ask more help from my group in finishing some tasks. But I did learn some new perspectives that it is okay to ask for help, people are willing to help, and when I assign tasks to others, they can do a great job. So for the future, I think for me, it would be nice, that when I work in a group project, to identify strengthts of each person at the start of the project, so that people can work on assignments that they like and are good at. Also this experience shaped me in believing that I should ask for more help, and communicate more clearly to people what I would like to see from them. 
-
-#### How I am going to continue with BCC. 
-
-`BCC examples (x2) provided with a reflection and connection between own learning path and clear delineation of BCC (Identification/coordination/refl
-ection/transformation) is identified -reference provided and motivation to continue developing BCC competence is stated.`
-
-**References**
-Gulikers, J. (2020). Examples of boundary crossing learning activities. https://edepot.wur.nl/566880
-
+----------------------------
+----------------------------
 
 ### Reflection on group
 If I am being honest, the group work did not go as well as I had hoped. During the first week, Simen was still stuck in Norway due to snow issues at Schiphol. As a result, we mainly had to work with three people, and most of the collaboration was online. Because of this, communication did not go very smoothly. It was difficult to see what everyone was working on. Despite this, I tried to keep the group updated on my progress. For example, I already got some code working to retrieve Bluesky posts. At the end of the first week, Tom and I gave the presentation together.
@@ -67,6 +42,41 @@ Because I spent so much time on the group project, I now still have to create my
 I am not writing this to blame others (I think it is miscommunication from all sides), but to give context. I would like this to be taken into consideration when grading both the group project and my personal portfolio, as I believe I have put in significantly more time and effort than others. At first, I did not mind, as I learned many new and interesting things related to coding, APIs, and natural language processing. However, in the last week, this situation became more frustrating for me.
 
 To conclude, as this is a reflection, I could have done better in communicating my frustrations. In future group projects, I should divide tasks better so that the division is more equal. In addition, I should point out my personal preference of working on campus and I should point out if someone does not work that much for the group, even though I am a conflict avoidant person. 
+
+### Reflection on Boundary Crossing Competences
+![boundarycrossing](https://github.com/user-attachments/assets/05876b36-fd44-45fa-aaf9-9cf1dbf4118d)
+
+#### Example 1: Working together with Jingxi
+
+**Identification:**
+I was working very hard on a lot of different things at the same time. Therefore, I could not also spend much time on the StoryMap that I started to make.
+To complete the task of the StoryMap I needed someone that was creative, used StoryMaps before, and someone that could look at our results from a different perspective. 
+
+**Coordination:**
+As I already understood from Jingxi that she did not know the link to the Google Colab was on Whatsapp, I had to make sure that I was more clear in communication. 
+I asked her if she could work on our StoryMaps. I saw her making beautiful drawings for our ethics posters, so I identified that Jingxi was a creative person. 
+
+**Reflection:** 
+When I think back at this project I think about that I often did too many things, and I did not ask for help. Therefore I think it was nice to see that the time I did ask for help from Jingxi that she did a great job in making the StoryMap more visual pleasing and also expanding it with some text. I learned that during the weeks that Jingxi is willing to help but is a bit shy to ask herselve. I also know that it can be quite difficult for her communicating with us, as she sometimes has difficulties with English. Therefore I think it is nice to see that she did well to finish the beautiful Storymap. 
+
+**Transformation:**
+Unfortunately this happened in the last week of our project. Therefore, I did not ask more help from my group in finishing some tasks. But I did learn some new perspectives that it is okay to ask for help, people are willing to help, and when I assign tasks to others, they can do a great job. So for the future, I think for me, it would be nice, that when I work in a group project, to identify strengthts of each person at the start of the project, so that people can work on assignments that they like and are good at. Also this experience shaped me in believing that I should ask for more help, and communicate more clearly to people what I would like to see from them. 
+
+#### Example 2: Working with Tom
+
+**Identification:**
+
+**Coordination:**
+
+**Reflection:** 
+
+**Transformation:**
+
+#### How I am going to continue with BCC. (motivation)
+Ask for more help when I am stuck, communicate more clearly my frustrations, discuss with my teammates better how we would like to work as a group. 
+
+**References**
+Gulikers, J. (2020). Examples of boundary crossing learning activities. https://edepot.wur.nl/566880
 
 ### Reflection on what went well and not so well. 
 
