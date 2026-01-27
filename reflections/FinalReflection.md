@@ -1,6 +1,6 @@
-# Final reflection 
+# Final reflection Marco Kemperman
 ### Reflection on learning goals:
-
+----------------------------
 ### Reflection on Data quality and methods: 
 For the methods I believe that they way we retrieved the information was about the right way to do it. BlueSku had its limitations and therefore for some limitation we could work around it, but for some it did not work out that well. We used the BlueSky API to retrieve posts. We retrieved a maximum of 8000 posts per keyword. This was the result of the fact that if you choose to receive more than 8000 posts per keyword, there is a big possibility that the code will result in a 501 error. Furthermore, as BlueSky limits only 100 post retrieval per time, we had to loop around it to retrieve it until a maximum of 8000 per keyword. 
 For the weather data we used MeteoStat data. We accessed the packages and we retrieved weather data for all our capitals. We choose to only work with capitals for both our weather and sentiment data, because otherwise the data quality would be very low, as you cannot say that weather sentiment from the north of norway, is the same as real weather data from weather station in Oslo. https://github.com/meteostat/meteostat
@@ -13,11 +13,13 @@ I further want to point out that we could have done more data cleaning. At first
 
 What I learned the last couple of weeks is that retrieving informal data from BlueSky and converting this data into something that you can quantify is pretty difficult. It would be impossible to get a code / model running that works perfectly without limitations. There will always be limitations, if not within the code, it could be within the API or in the Natural Language Processing Model. We tried to get data with some quality that we could work with. I think we did manage this, as we did have some nice graphs and statistics in the end. But still a lot of noise was still in the data that was not filtered out in these three weeks. For the limited amount of time I am quite satisfied with what we achieved. Of course I can probably write a lot more about the limitations of our project or about the BlueSky API, but I think I have already written this in more detail within the StoryMaps. https://arcg.is/nurma 
 
+----------------------------
+
 ### Reflection on societal implications of our project, and potenial use of application. 
 
-----------------------------
-----------------------------
+`Examples of societal implications are clearly reflected on and the examples given are sufficient with references -societal implications are novel and stimulate innovation`
 
+----------------------------
 ### Reflection on group
 If I am being honest, the group work did not go as well as I had hoped. During the first week, Simen was still stuck in Norway due to snow issues at Schiphol. As a result, we mainly had to work with three people, and most of the collaboration was online. Because of this, communication did not go very smoothly. It was difficult to see what everyone was working on. Despite this, I tried to keep the group updated on my progress. For example, I already got some code working to retrieve Bluesky posts. At the end of the first week, Tom and I gave the presentation together.
 
@@ -42,6 +44,8 @@ Because I spent so much time on the group project, I now still have to create my
 I am not writing this to blame others (I think it is miscommunication from all sides), but to give context. I would like this to be taken into consideration when grading both the group project and my personal portfolio, as I believe I have put in significantly more time and effort than others. At first, I did not mind, as I learned many new and interesting things related to coding, APIs, and natural language processing. However, in the last week, this situation became more frustrating for me.
 
 To conclude, as this is a reflection, I could have done better in communicating my frustrations. In future group projects, I should divide tasks better so that the division is more equal. In addition, I should point out my personal preference of working on campus and I should point out if someone does not work that much for the group, even though I am a conflict avoidant person. 
+
+----------------------------
 
 ### Reflection on Boundary Crossing Competences
 ![boundarycrossing](https://github.com/user-attachments/assets/05876b36-fd44-45fa-aaf9-9cf1dbf4118d)
@@ -78,6 +82,6 @@ Ask for more help when I am stuck, communicate more clearly my frustrations, dis
 **References**
 Gulikers, J. (2020). Examples of boundary crossing learning activities. https://edepot.wur.nl/566880
 
-### Reflection on what went well and not so well. 
+----------------------------
 
-`Examples of societal implications are clearly reflected on and the examples given are sufficient with references -societal implications are novel and stimulate innovation`
+### Reflection on what went well and not so well. 
