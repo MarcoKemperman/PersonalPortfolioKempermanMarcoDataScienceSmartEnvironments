@@ -8,7 +8,10 @@ For the sentiment data we used the model from roberta. We choose to work with th
 
 The eventual data quality of our results in pretty low. As I already wrote in our StoryMaps limitation, we have a lot of limitations. Limitations that I noticed were BlueSky API restrictions, including search caps, crashes after large post retrievals, and the inability to filter by date (although possible but very slow for more than 200 keywords) or user location. This maked it very difficult to retrieve a high quality dataset of temporal and spatial accurate weather sentiment posts. Moreover, there were issues with language (same words with different meanings across languages), multi-location posts, and posts referring to different days (such as next weekend) created  some misclassification sentiment compared to the real weather. Duplication of some posts, bots, sarcasm, and informal language further disrupted our results. If we had more time and better hardware, the study could include more data, more countries, better date filtering, and additional social media platforms. However, for this project it was now out of our scope. 
 
-I further want to point out that we could have done more data cleaning. At first I thought that it was best to clean data before data retrieval. Therefore we already filter quite a lot such as forbidden words, only retrieve posts with weather keywords, and only retrieve posts with capital cities. 
+I further want to point out that we could have done more data cleaning. At first I thought that it was best to clean data before data retrieval. Therefore we already filter quite a lot such as forbidden words, only retrieve posts with weather keywords, and only retrieve posts with capital cities. Only posts that met all three conditions are retrieved as I visualised in the table below. However, due to some mistakes most probably in BlueSky API sometimes posts were retrieved that did not satisfy all three conditions. Therefore if I would do it again, I would also filter more after data retrieval to make sure that all the three conditions are met again. 
+<img width="1138" height="666" alt="tableview" src="https://github.com/user-attachments/assets/a77976b1-a9eb-4a94-843d-72dc0e46ee7c" />
+
+What I learned the last couple of weeks is that retrieving informal data from BlueSky and converting this data into something that you can quantify is pretty difficult. It would be impossible to get a code / model running that works perfectly without limitations. There will always be limitations, if not within the code, it could be within the API or in the Natural Language Processing Model. We tried to get data with some quality that we could work with. I think we did manage this, as we did have some nice graphs and statistics in the end. But still a lot of noise was still in the data that was not filtered out in these three weeks. For the limited amount of time I am quite satisfied with what we achieved. Of course I can probably write a lot more about the limitations of our project or about the BlueSky API, but I think I have already written this in more detail within the StoryMaps. https://arcg.is/nurma 
 
 ### Reflection on societal implications of our project, and potenial use of application. 
 
@@ -42,8 +45,6 @@ I am not writing this to blame others, but to give context. I would like this to
 To conclude, as this is a reflection, I could have done better in communicating my frustrations. In future group projects, I should divide tasks better so that the division is more equal. In addition, I should point out my personal preference of working on campus and I should point out if someone does not work that much for the group, even though I am a conflict avoidant person. 
 
 ### Reflection on what went well and not so well. 
-
-`Proficient data science skills are applied to meet ALL their learning goals. - demonstratable range of skills with novel skills to meet learning goals`
 
 `Data quality is evaluated using a range of appropriate techniques -Understanding of its limitations are sufficiently acknowledged and steps taken are clear and retraceable.`
 
