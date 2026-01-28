@@ -1,6 +1,5 @@
 # Final reflection Marco Kemperman
-### Reflection on learning goals:
-----------------------------
+
 ### Reflection on Data quality and methods: 
 For the methods I believe that they way we retrieved the information was about the right way to do it. BlueSku had its limitations and therefore for some limitation we could work around it, but for some it did not work out that well. We used the BlueSky API to retrieve posts. We retrieved a maximum of 8000 posts per keyword. This was the result of the fact that if you choose to receive more than 8000 posts per keyword, there is a big possibility that the code will result in a 501 error. Furthermore, as BlueSky limits only 100 post retrieval per time, we had to loop around it to retrieve it until a maximum of 8000 per keyword. 
 For the weather data we used MeteoStat data. We accessed the packages and we retrieved weather data for all our capitals. We choose to only work with capitals for both our weather and sentiment data, because otherwise the data quality would be very low, as you cannot say that weather sentiment from the north of norway, is the same as real weather data from weather station in Oslo. https://github.com/meteostat/meteostat
@@ -66,22 +65,29 @@ When I think back at this project I think about that I often did too many things
 **Transformation:**
 Unfortunately this happened in the last week of our project. Therefore, I did not ask more help from my group in finishing some tasks. But I did learn some new perspectives that it is okay to ask for help, people are willing to help, and when I assign tasks to others, they can do a great job. So for the future, I think for me, it would be nice, that when I work in a group project, to identify strengthts of each person at the start of the project, so that people can work on assignments that they like and are good at. Also this experience shaped me in believing that I should ask for more help, and communicate more clearly to people what I would like to see from them. 
 
-#### Example 2: Working with Tom
+#### Example 2: Working on location
 
 **Identification:**
+My norms and values in group work is that you show up on university when there is groupwork assigned in the schedule. I know this is not always the case for everyone, so I try to be flexible by not restricting group members to be on campus all the time. What I also notice is that I do not work that well together remotely on different locations. I value working together. 
 
 **Coordination:**
+What would be needed is to discuss in group what everyone values in terms of working. If it should be flexible, or not. If it should be on location, or location independent. My biggest mistake in the coordination is that I did not discuss my preference for being at university and being there when group work is assigned in the schedule. 
 
 **Reflection:** 
+When I think about it when writing this, it feels a bit weird. About two years ago, me and a group also had a lot of reflection assignments about working together in a group. I got feedback from one of my groupmembers that I should be more flexible, with schedule and with group work. Now for this course, I think it came to a point that because it did not dicuss my personal preference, it became too flexible. Creating an environment where people stayed at home to work, limiting the progress of our group work. I allowed people to work from home, and I did not mind when people were leaving earlier. However, I did started to become more frustrated by this at the end of the course. Eventually I think it all came down to communication. If the communication went better the groupwork would have went better too. I also know that this is a weakness from my part, as this also came up in an earlier group reflection. 
 
 **Transformation:**
+So when talking about transformation, I do think I transformed from being an unflexible person, to a person that is more flexible to work with. However, I do also think that I could have done better in comminicating my preferences to my group mates. While they did tell me their preference of working from home, I was too shy or conflict avoidant to tell them my opinion. To conclude, I did try to be different this time, but I did not communicate well enough my preferences to my group members. 
 
 #### How I am going to continue with BCC. (motivation)
 Ask for more help when I am stuck, communicate more clearly my frustrations, discuss with my teammates better how we would like to work as a group. 
 
-**References**
+**References used for support in making the BCC**
 Gulikers, J. (2020). Examples of boundary crossing learning activities. https://edepot.wur.nl/566880
+Fortuin, K. P. J., Gulikers, J. T. M., Uiterweer, N. C. P., Oonk, C., & Tho, C. W. S. (2023). Developing a boundary crossing learning trajectory: supporting engineering students to collaborate and co-create across disciplinary, cultural and professional practices. European Journal of Engineering Education, 49(2), 212–235. https://doi.org/10.1080/03043797.2023.2219234
 
 ----------------------------
 
-### Reflection on what went well and not so well. 
+### Reflection on what went well.
+Of course, a lot of things did go well too. We have been able to retrieve weather posts from BlueSky and connect this to real weather data. We have some statistical analysis that shows some correlation. Furthermore, I think we all learned a lot, as a result of the freedom we get in this course. I definetely learned a lot about coding, API, statistics and more. We also created some nice posters that were used for some interesting discussions in class. So overall, although I might sound negative in this reflection, I am actually quite satisfied with what we achieved in these short three weeks. 
+
