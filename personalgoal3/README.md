@@ -25,6 +25,7 @@ My third learning goal is to become better at analysing data by applyign more st
 During the presentations I reflected a bit and I aslo asked around if the visuals were clear. For example I asked Jelle about our visuals.
 
 <img width="1440" height="552" alt="image" src="https://github.com/user-attachments/assets/18e77f9d-657c-4679-be2e-0070884dab80" />
+I added the red drawings to make the visualisation of this statistics more clear as it was not clear to everyone from my group. 
 <img width="1238" height="543" alt="image" src="https://github.com/user-attachments/assets/0a950514-5977-4485-a1cc-5cdb5202131a" />
 <img width="1254" height="622" alt="image" src="https://github.com/user-attachments/assets/847e89f1-35e7-41fa-b035-04ff08bdab71" />
 <img width="1934" height="613" alt="image" src="https://github.com/user-attachments/assets/086c0283-0b0a-471f-9a28-fd4e877df8d7" />
