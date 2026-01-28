@@ -79,8 +79,11 @@ When I think about it when writing this, it feels a bit weird. About two years a
 **Transformation:**
 So when talking about transformation, I do think I transformed from being an unflexible person, to a person that is more flexible to work with. However, I do also think that I could have done better in comminicating my preferences to my group mates. While they did tell me their preference of working from home, I was too shy or conflict avoidant to tell them my opinion. To conclude, I did try to be different this time, but I did not communicate well enough my preferences to my group members. 
 
-#### How I am going to continue with BCC. (motivation)
-Ask for more help when I am stuck, communicate more clearly my frustrations, discuss with my teammates better how we would like to work as a group. 
+#### How I am going to continue with BCC.
+- Ask for more help when I am stuck. 
+- Communicate more clearly my team mates and my own preferences
+- Communicate better in general. 
+- Discuss with my teammates better how we would like to work as a group.
 
 **References used for support in making the BCC**
 Gulikers, J. (2020). Examples of boundary crossing learning activities. https://edepot.wur.nl/566880
