@@ -21,15 +21,21 @@ The results are shown in the included Jupyter Notebook that has been stored with
 
 ## Conclusions
 ### Conclusions on Results
+Overall, I am pretty happy about our results. We got the code running with the BlueSky API and we connected this with the Natural Language Processing model and the Meteostat weather data. It was not easy to get everything working, for example the BlueSky API did have a lot of issues with limits on keywords, and limits in relation to date filtering and location. However, I am quite satisfied with our BlueSky connection. 
 
+One thing that I would have liked to see differently is that we should filter more the data CSV file after retrieving this from BlueSky. Because now we tried to filter as much as possible already up front. But due to some mistakes in BlueSky API, sometimes some posts came through without including a weather keyword. 
+
+In addition, I am quite happy about the Natural Language processing model that we used. Of course, it has not always been perfect, and some posts were assigned a wrong sentiment score, if you looked at the post manually. However, if you take the average of all posts, the mistakes are skewed out a bit. We also could not make our own Natural Language Processing model in such a short time, so to use one that is trained on a lot of post and languages, is the best that we could do. 
 
 ### Conclusions on Accomplishment of the Goal
-
+To conclude I think I fully accomplished this goal. I have gained a lot more knowledge on how API's work. About that there are limitations to API's and that for some limitations it is possible to work around it, but it comes with some caveats. I also gained knowledge on how to connect a Natural Language Processing Model, and how these models work. As I have read the PDF about the creation of the Roberta model here: https://arxiv.org/pdf/2104.12250. 
 
 So what did I learn:
-- I learned 
-- I learned 
-- I learned  
+- I learned how to connect the BlueSky API with python to retrieve posts from BlueSky.
+- I learned how to use a online pre-made Natural Language Processing Model to assign sentiment values.
+- I learned how the MeteoStat connection worked and how to combine this data with our sentiment scores. 
 
 Remaining challenges:
+- It has been difficult to retrieve date filtered post without getting timeout errors in our code.
+- As I did not make the Natural Language Processing Model myself it is still a sort of a BlackBox for me, therefore it would also be nice to try develop my own, or reading more into how a NLP model functions. 
 
