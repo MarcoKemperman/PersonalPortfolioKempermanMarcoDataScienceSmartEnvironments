@@ -20,8 +20,8 @@ This project helps to address the gap between objective weather data and how peo
 
 Even though we examined the sentiment from a new platform, the societal benefit of this project is limited. Although the results show differences in sentiment under different weather conditions, these findings are mainly exploratory and do not directly translate into practical applications. Moreover, social media users tend to express negative opinions more than positive ones, which can bias the results. In addition, methodological limitations, such as restricted location and time filtering reduced our reliability of the findings. Despite these limitations, the project can be valuable as a concept. It demonstrates how subjective online expressions can be linked to weather data. With improved data access and methods, future studies could potentially be conducted to better understand how weather affect people’s perceptions and experiences in Europe.
 
-Young, J. C., Arthur, R., & Williams, H. T. P. (2025). The linguistic and emotional effects of weather on UK social media users. Scientific Reports, 15(1), 8009. https://doi.org/10.1038/s41598-024-82384-w
-Wang, J., Guetta-Jeanrenaud, N., Palacios, J., Fan, Y., Kakkar, D., Obradovich, N., & Zheng, S. (2025). Unequal impacts of rising temperatures on global human sentiment. One Earth, 8(10), 101422. https://doi.org/10.1016/j.oneear.2025.101422 
+- Young, J. C., Arthur, R., & Williams, H. T. P. (2025). The linguistic and emotional effects of weather on UK social media users. Scientific Reports, 15(1), 8009. https://doi.org/10.1038/s41598-024-82384-w
+- Wang, J., Guetta-Jeanrenaud, N., Palacios, J., Fan, Y., Kakkar, D., Obradovich, N., & Zheng, S. (2025). Unequal impacts of rising temperatures on global human sentiment. One Earth, 8(10), 101422. https://doi.org/10.1016/j.oneear.2025.101422 
 
 ----------------------------
 ### Reflection on group
@@ -52,7 +52,6 @@ To conclude, as this is a reflection, I could have done better in communicating 
 ----------------------------
 
 ### Reflection on Boundary Crossing Competences
-![boundarycrossing](https://github.com/user-attachments/assets/05876b36-fd44-45fa-aaf9-9cf1dbf4118d)
 
 #### Example 1: Working together with Jingxi
 
@@ -91,8 +90,8 @@ So when talking about transformation, I do think I transformed from being an unf
 - Discuss with my teammates better how we would like to work as a group.
 
 **References used for support in making the BCC**
-Gulikers, J. (2020). Examples of boundary crossing learning activities. https://edepot.wur.nl/566880
-Fortuin, K. P. J., Gulikers, J. T. M., Uiterweer, N. C. P., Oonk, C., & Tho, C. W. S. (2023). Developing a boundary crossing learning trajectory: supporting engineering students to collaborate and co-create across disciplinary, cultural and professional practices. European Journal of Engineering Education, 49(2), 212–235. https://doi.org/10.1080/03043797.2023.2219234
+- Gulikers, J. (2020). Examples of boundary crossing learning activities. https://edepot.wur.nl/566880
+- Fortuin, K. P. J., Gulikers, J. T. M., Uiterweer, N. C. P., Oonk, C., & Tho, C. W. S. (2023). Developing a boundary crossing learning trajectory: supporting engineering students to collaborate and co-create across disciplinary, cultural and professional practices. European Journal of Engineering Education, 49(2), 212–235. https://doi.org/10.1080/03043797.2023.2219234
 
 ----------------------------
 
