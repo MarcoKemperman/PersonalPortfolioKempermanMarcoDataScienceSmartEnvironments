@@ -36,6 +36,9 @@ I added the red drawings to make the visualisation of this statistics more clear
 <img width="1549" height="548" alt="image" src="https://github.com/user-attachments/assets/30d1ed09-5f7f-4620-b517-581ff8a597e7" />
 <img width="1990" height="1990" alt="image" src="https://github.com/user-attachments/assets/d078e6bf-a2fc-4266-a255-2a5516c8d6a1" />
 
+https://marcokemperman.github.io/DataScienceSmartEnv/europe_weather_sentiment_map1.html 
+https://marcokemperman.github.io/DataScienceSmartEnv/europe_weather_sentiment_timeslider%20(11).html
+
 ## Conclusions
 ### Conclusions on Results
 
