@@ -8,19 +8,21 @@ My third learning goal is to become better at analysing data by applyign more st
 - Calculated basis statistics such as mean, median, count, min, max, and standard deviation.
 - Create histogram for each country
 - Created boxplot and violin plots to show distribution of sentiment. 
-- 
-- 
-- 
+- Created a temporal plot to show average sentiment over the last two weeks for top five countries
+- I computed correlation between sentiment and different weather variables such as cloud cover, precipitation, average temperature, maximum temperature, and minimim temperature. 
+- I computed coeficient of determination (R2) between sentiment and different weather variables such as cloud cover, precipitation, average temperature, maximum temperature, and minimim temperature.
+- I created a temporal graph to show sentiment, rainfall, and temperature for a chosen country, for the last two weeks.
 
-### Programs used
-- 
-- 
-- 
-- 
-- 
+### Packages that I used
+- Geopandas
+- Matplotlib.pyplot
+- Folium
+- Numpy
+- Seaborn
+- Math
 
 ## Results
-
+During the presentations I reflected a bit and I aslo asked around if the visuals were clear. For example I asked Jelle about our visuals.
 
 ## Conclusions
 ### Conclusions on Results
