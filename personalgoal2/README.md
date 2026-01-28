@@ -17,7 +17,7 @@ My second learning goal is that I would like to learn more about API and natural
 - Hugging Face
 
 ## Results
-
+The results are shown in the included Jupyter Notebook that has been stored within this folder. 
 
 ## Conclusions
 ### Conclusions on Results
