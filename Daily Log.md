@@ -57,6 +57,9 @@ Today I worked on the presentation in the morning, and I presented in the aftern
 Today I started working on the personal reflection. I created the GitHub repository and learned how to structure the repository in a way that is clear for the teacher to read. I also added information to the read.me files and I added the daily log and the earlier reflections to the folder. I also started working on the reflection on the personal goals. Furthermore I wrote some reflection on our group work. 
 
 #### **Tuesday 27th January**
-Today I finished personal goal 1 and 2. 
+Today I worked on finishing personal goal 1, and I worked on the BCC. At last, I also worked on the Societal value and the data quality section.
+
+#### **Wednesday 28th January**
+Today I finished the societal value section, I finished the daily logm and I also finished personal goal 2 and 3. 
 
 
