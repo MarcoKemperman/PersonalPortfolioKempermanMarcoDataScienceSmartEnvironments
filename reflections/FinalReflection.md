@@ -16,6 +16,10 @@ What I learned the last couple of weeks is that retrieving informal data from Bl
 
 ### Reflection on societal implications of our project, and potenial use of application. 
 
+Address the gap between objective weather data and how people subjectively perceive and emotionally respond to weather and climate-related conditions. Meteorological data describes temperature, precipitation, however, it does not capture how these conditions affect human emotions, well-being, and daily experiences. 
+
+To be honest, I could write a nice text about how our project has societal value, but I do not really see it that much. It does indeed capture if there are differences in sentiment and weather. And some nice paragraphs could be written about why it could be the case. E.g. people writing more negatively online than positively. However, I am not sure if our project could really be used in application. 
+
 `Examples of societal implications are clearly reflected on and the examples given are sufficient with references -societal implications are novel and stimulate innovation`
 
 ----------------------------
